@@ -10,7 +10,7 @@
 
 	<name>spring-boot-dudu-web-jsp</name>
 	<description>Demo project for Spring Boot</description>
-
+<!-- 瞎改啥呢 -->
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
